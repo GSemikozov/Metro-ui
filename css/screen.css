@@ -8,7 +8,7 @@ html {
 	height: 100%;
 }
 body {
-	background: #192d62 url("../images/background.png") repeat;
+	background: #192d62 url("../images/background.png");
 	color: #fff;
 	font-family: 'segoe','Open Sans', sans-serif;
 	font-size: 16px;
